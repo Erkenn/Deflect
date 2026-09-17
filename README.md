@@ -1,10 +1,10 @@
 # [Deflect]
 
 ## Участники команды:
-Кулбусинов Еркен - Gameplay Developer
-Татаркин Дмитрий - UI/UX Developer
-Дианов Андрей - Technical Developer
-Тюрина Арина - Game Designer / Producer
+- Кулбусинов Еркен - Gameplay Developer
+- Татаркин Дмитрий - UI/UX Developer
+- Дианов Андрей - Technical Developer
+- Тюрина Арина - Game Designer / Producer
 
 **2D Action Roguelike**
 
